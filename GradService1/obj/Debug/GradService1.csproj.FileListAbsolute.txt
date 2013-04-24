@@ -1,0 +1,6 @@
+c:\users\brad\documents\visual studio 2012\Projects\GradService1\GradService1\bin\Debug\GradService1.dll.config
+c:\users\brad\documents\visual studio 2012\Projects\GradService1\GradService1\bin\Debug\GradService1.dll
+c:\users\brad\documents\visual studio 2012\Projects\GradService1\GradService1\bin\Debug\GradService1.pdb
+c:\users\brad\documents\visual studio 2012\Projects\GradService1\GradService1\obj\Debug\GradService1.csprojResolveAssemblyReference.cache
+c:\users\brad\documents\visual studio 2012\Projects\GradService1\GradService1\obj\Debug\GradService1.dll
+c:\users\brad\documents\visual studio 2012\Projects\GradService1\GradService1\obj\Debug\GradService1.pdb
